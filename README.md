@@ -1,3 +1,4 @@
 # Palindrom
 # Palindrom Test in Reactjs
-# Run Program npm start
+# Install required package dependencies in project run "npm i"
+# Run Program "npm start"
